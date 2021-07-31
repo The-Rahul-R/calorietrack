@@ -1,10 +1,10 @@
-This is an Android application developed using Kotlin.
-Some of the features of this app are:
+This is an Android application developed using Kotlin.<br>
+Some of the features of this app are:<br>
 1)User authentication<br>
-2)Dashboard with various options
-3)Pedometer
-4)workout samples
-5)Food Calorie tracking 
-6)BMI calculator
+2)Dashboard with various options<br>
+3)Pedometer<br>
+4)workout samples<br>
+5)Food Calorie tracking <br>
+6)BMI calculator<br>
 
 Also has a very good looking UI.
